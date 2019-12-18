@@ -1,2 +1,2 @@
 # iplaycodexHomepage
-✨welccome to vist http://iplaycodex.com
+✨welcome to visit http://iplaycodex.com
