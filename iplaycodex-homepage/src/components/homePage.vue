@@ -4,7 +4,7 @@
         <h2>About me</h2>
         <ul>
             <li>
-                <a href="https://blog.iplaycodex.com" target="_blank">My blog</a>
+                <a href="blog.iplaycodex.com" target="_blank">My blog</a>
                 <a href="https://github.com/wawsc5354524" target="_blank">My github</a>
                 <a href="https://github.com/wawsc5354524" target="_blank">My open source project</a>
             </li>
